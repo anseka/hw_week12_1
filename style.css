@@ -1,0 +1,11 @@
+ul {
+    list-style: none;
+}
+
+button {
+	border-radius: 3px;
+	background-color: blue;
+	color: aliceblue;
+}
+button:hover 
+{background-color: lightblue;}
